@@ -10,18 +10,18 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/danurbanowicz/eleventy-sveltia-cms-starter"
+    "url": "https://github.com/theapplegates/11ty-sveltia-starter"
   },
   "author": {
-    "name": "Dan Urbanowicz",
-    "email": "dan.urbanowicz@gmail.com",
-    "url": "https://github.com/danurbanowicz"
+    "name": "Paul Applegate",
+    "email": "me@paulapplegate.com",
+    "url": "https://github.com/theapplegates"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/danurbanowicz/eleventy-sveltia-cms-starter/issues"
+    "url": "https://github.com/theapplegates/11ty-sveltia-starter/issues"
   },
-  "homepage": "https://github.com/danurbanowicz/eleventy-sveltia-cms-starter",
+  "homepage": "https://github.com/theapplegates/11ty-sveltia-starter",
   "devDependencies": {
     "@11ty/eleventy": "^2.0.0-beta.3",
     "@11ty/eleventy-navigation": "^0.3.5",
