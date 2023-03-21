@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: theapplegates/11ty-sveltia-starter
+  repo: theapplegates/11ty-sveltia
   branch: master
 
 media_folder: "static/img"
